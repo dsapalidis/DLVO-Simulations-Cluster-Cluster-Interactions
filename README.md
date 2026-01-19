@@ -2,8 +2,8 @@
 Derjaguin–Landau–Verwey–Overbeek (DLVO) simulations of cluster–cluster interactions, including an accurate solver for the nanoparticle surface electrostatic potential.
 
 <p align="center">
-  <img src="DLVO_Simulations_Cluster_Interactions.png" width="240" />
-  <img src="DLVO_Simulations_Potentials.png" width="320" />
+  <img src="DLVO_Simulations_Cluster_Interactions.png" width="220" />
+  <img src="DLVO_Simulations_Potentials.png" width="300" />
   </p>
 
 
