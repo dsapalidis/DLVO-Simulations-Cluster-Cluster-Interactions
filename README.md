@@ -3,7 +3,7 @@ Derjaguin–Landau–Verwey–Overbeek (DLVO) simulations of cluster–cluster i
 
 <p align="center">
   <img src="DLVO_Simulations_Cluster_Interactions.png" width="240" />
-  <img src="DLVO_Simulations_Potentials.png" width="340" />
+  <img src="DLVO_Simulations_Potentials.png" width="320" />
   </p>
 
 
